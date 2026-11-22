@@ -1,0 +1,1 @@
+{"name":"tamperproof","version":"0.1.0","description":"Stops Claude from quietly weakening your tests to make them pass: deleted, skipped or rewritten assertions wait for your yes, and a receipt under each answer lists every test change.","license":"MIT","keywords":["testing","tests","guardrails","code-quality"],"author":{"name":"adamelhadrii"}}

@@ -1,0 +1,13 @@
+{
+  "name": "tamperproof",
+  "owner": {
+    "name": "adamelhadrii"
+  },
+  "plugins": [
+    {
+      "name": "tamperproof",
+      "source": "./"
+    }
+  ],
+  "description": "tamperproof: Claude can't quietly bend your tests to turn them green. Weakening edits wait for your yes, and a receipt lists every test change."
+}
